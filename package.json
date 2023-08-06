@@ -1,0 +1,15 @@
+{
+  "name": "learn-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./public/index.html",
+  "scripts": {
+    "serve": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
